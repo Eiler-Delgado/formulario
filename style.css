@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    background-color: rgb(221, 221, 216);
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    background-color: aliceblue;
+
+}
+
+.formulario{
+    background-color: lightgray;
+    display: grid;
+    place-items: center;
+    margin: auto;
+    border: solid 1px;
+    width: 500px;
+}
+
+.formu{
+    color: rgb(184, 54, 54);
+    font-size: 20px;
+}
+
+
+
+
+
+
+
